@@ -1,0 +1,2 @@
+# KillAdminForMoney
+Minecraft plugin
