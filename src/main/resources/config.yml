@@ -1,0 +1,19 @@
+give-commands: # Команды при убийстве администратора
+  - 'eco give {player} 100' # Команда на выдачу валюты
+
+modules: # Вкл / Выкл модули
+  nickname: true # Включить проверку администратора через никнейм
+  group: true # Включить проверку администратора через группу
+  sound: true # Включить воспроизведение звука при убийстве администратора
+  actionbar: true # Включить вывод текста в actionbar
+  title: true # Включить вывод текста в title
+  chat: true # Включить вывод текста в chat
+
+nicknames:
+  - 'TestNick'
+
+groups:
+  - 'admin'
+
+sound:
+  - "ENTITY_DRAGON_FIREBALL_EXPLODE"

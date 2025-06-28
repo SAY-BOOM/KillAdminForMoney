@@ -1,0 +1,11 @@
+messages:
+  no-permission: "&#643b9f☄&8 |&f У тебя &#f64c41нет прав&f на выполнение этой команды."
+  reload-success: "&#643b9f☄&8 |&f KillAdminForMoney успешно перезагружен."
+  reload-usage: "&#643b9f☄&8 |&f Использование:&#795695 /kafm reload"
+
+  # {victim} — никнейм убитого
+  kill-admin-success:
+    chat: "&#643b9f☄&8 |&f Ты убил администратора &#795695{victim}&f и получил награду!"
+    actionbar: "&9f☄&8 |&f Ты убил администратора &9{victim}&f и получил награду!"
+    title: "&#643b9fПоздравляем!"
+

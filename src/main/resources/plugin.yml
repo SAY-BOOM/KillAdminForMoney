@@ -1,0 +1,13 @@
+name: KillAdminForMoney
+version: '${project.version}'
+main: zxc.deadinside.sayboom.killadminformoney.KillAdminForMoney
+api-version: 1.16
+depend:
+  - LuckPerms
+
+commands:
+  kafm:
+    usage: /<command> reload
+    permission: kafm.reload
+    permission-message: '&cУ тебя нет прав на эту команду.'
+
