@@ -1,5 +1,5 @@
 name: KillAdminForMoney
-version: '${project.version}'
+version: 993
 main: zxc.deadinside.sayboom.killadminformoney.KillAdminForMoney
 api-version: 1.16
 depend:
